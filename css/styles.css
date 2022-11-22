@@ -1,0 +1,89 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+ul,
+ol {
+  list-style: none;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+address {
+  font-style: normal;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  border: 0;
+  clip: rect(0 0 0 0);
+}
+
+.contacts {
+}
+.container {
+}
+.visually-hidden {
+}
+.contacts__list {
+}
+.contacts__item {
+}
+.contacts__category {
+}
+.contacts__adress-link {
+}
+.city {
+}
+.contacts-workinghours {
+}
+.contacts-workinghours__list {
+}
+.contacts-workinghours__item {
+}
+.days {
+}
+.hours {
+}
+.contacts-telmail {
+}
+.contacts-telmail__list {
+}
+.contacts-telmail__item {
+}
+.contacts-telmail__link {
+}
+.contact-button-list {
+}
+.contact-button-item {
+}
+.contact-button {
+}
+.icon-contacts {
+}
